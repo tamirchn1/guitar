@@ -1,5 +1,3 @@
-
-
 const strings = document.querySelectorAll('.str');
 let selection = document.querySelector('#modes');
 
